@@ -29,7 +29,8 @@ It is used for including header files or the preprocessor directives in the prog
 
 stdio.h is the standard input/output header files which provides function like
 
-printf() => To print output
+printf() => To print output &
+
 scanf() => To take input
 
 The second line is the main function which executes at the beginning.
