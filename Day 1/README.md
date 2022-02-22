@@ -17,7 +17,7 @@ int main()
 }
 ```
 
-### Explining the sample C program
+### Explaining the sample C program
 
 The first line is:
 
