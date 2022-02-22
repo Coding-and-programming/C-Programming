@@ -4,7 +4,7 @@
 
 C is a programming language developed by Dennis Ritchie in AT & T's Bell Laboratories.
 
-### Let's Start with a simple C Program
+### Now, let's take a look at simple C Program
 
 ```c
 // Simple Hello World in C
