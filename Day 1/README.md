@@ -49,4 +49,4 @@ prints **Hello World**
 
 return 0 is required to return integer value 0 which means that the program executed successfully.
 
-In **Programming** terms, 0 means **EXIT_SUCCESS** wheres 1 means **EXIT_FAILAURE**.
+In **Programming** terms, 0 means **EXIT_SUCCESS** wheres 1 means **EXIT_FAILURE**.
